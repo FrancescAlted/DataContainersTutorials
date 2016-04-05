@@ -1,12 +1,9 @@
-Notebooks and other materials for the PyConES 2015 tutorial
-===========================================================
-
-Here are my materials for the tutorial on Friday 20, November 2015 in
-PyConES 2015.
+Notebooks and other materials for the Data Containers tutorial
+==============================================================
 
 You can get the latest release of the materials here:
 
-https://github.com/FrancescAlted/PyConES2015/releases
+https://github.com/FrancescAlted/DataContainers/releases
 
 Also, make sure that you have the next Python packages installed:
 
